@@ -1,0 +1,1 @@
+export const E_API_PAGE_LIMIT = 5
